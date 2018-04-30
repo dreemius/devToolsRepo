@@ -51,7 +51,7 @@ var data = [{
 	date : 1482153200637
 },{
 	url: "http://desktopwallpapers.org.ua/mini/201507/40062.jpg",
-	name: "ЛАДА КАЛИНА",
+	name: "ЛАДА КАЛИНА0000",
 	id : 8,
 	description : "included through alternative means, such as additional text hidden with the",
 	date : 1442153200637
