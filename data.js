@@ -57,13 +57,13 @@ var data = [{
 	date : 1442153200637
 },{
 	url: "http://desktopwallpapers.org.ua/mini/201507/40059.jpg",
-	name: "ДЖИП",
+	name: "ДЖИП 77777",
 	id : 9,
 	description : " meaning to a button only provides a visual",
 	date : 1322153200637
 },{
 	url: "http://desktopwallpapers.org.ua/mini/201507/40058.jpg",
-	name: "ДАЧА ЛОГАН",
+	name: "ДАЧА ЛОГАН 2222",
 	id : 10,
 	description : "uded through alternative means, such as additional",
 	date : 1322159200637
