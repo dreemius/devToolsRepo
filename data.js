@@ -72,3 +72,4 @@ var data = [{
 }]
 
 let info = "test";
+let info = "test2";
